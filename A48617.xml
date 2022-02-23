@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King at White-Hall, July 26, 1668, in defence of the liturgy of our church by Richard Lingard ...</title>
+            <author>Lingard, R. (Richard), 1598?-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48617</idno>
+            <idno type="STC">Wing L2353</idno>
+            <idno type="STC">ESTC R15769</idno>
+            <idno type="EEBO-CITATION">12393039</idno>
+            <idno type="OCLC">ocm 12393039</idno>
+            <idno type="VID">61047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48617)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61047)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 766:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King at White-Hall, July 26, 1668, in defence of the liturgy of our church by Richard Lingard ...</title>
+                  <author>Lingard, R. (Richard), 1598?-1670.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for John Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Published by His Majesties special command.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Chronicles, 2nd, XXIX, 30 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61047:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the KING AT WHITE-HALL, <hi>July</hi> 26. 1668.</p>
+            <p>In Defence of the LITURGY of our CHURCH.</p>
+            <p>BY <hi>RICHARD LINGARD,</hi> P.P. D.D. And <hi>Dean</hi> of <hi>Liſmore.</hi>
+            </p>
+            <p>Publiſhed by His Majeſties ſpecial Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> for <hi>John Crook,</hi> and are to be ſold at his Shop in <hi>Duck-Lane,</hi> 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:61047:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>II CHRON. XXIX. 30.</hi>
+                  </bibl>
+                  <p>Moreover <hi>Hezekiah</hi> the King, and the Princes commanded the <hi>Levites</hi> to ſing praiſe unto the Lord, with the words of <hi>David</hi> and of <hi>Aſaph</hi> the Seer: and they ſang praiſes with gladneſs, and they bowed their Heads and Worſhipped.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the Structure of the enſuing Diſcourſe may be advanced upon a good foundation, it may be worth our while to de<g ref="char:EOLhyphen"/>termine, how far the ab<g ref="char:EOLhyphen"/>rogation of the Jewiſh Religion does extend, and what are thoſe Rites and Uſages which we Chriſtians may ſafely tran<g ref="char:EOLhyphen"/>ſcribe from thence, without Judaizing and en<g ref="char:EOLhyphen"/>dangering our Profeſſion: This will be reſolved by obſerving, that there was a twofold ſervice of God among the <hi>Jews,</hi> Ceremonial, and Moral;
+<pb n="2" facs="tcp:61047:3"/>the Ceremonial conſiſted in Sacrifices and Offe<g ref="char:EOLhyphen"/>rings, <hi>&amp;c.</hi> and all that Digeſt of Moſaical Rudi<g ref="char:EOLhyphen"/>ments, a Law of Commandments contained in Ordinances, which <hi>Moſes</hi> did particularly deli<g ref="char:EOLhyphen"/>neate according to the pattern in the Mount; and was to be managed only by the Sons of <hi>Aaron,</hi> and was to be confined to their Tabernacle or Tem<g ref="char:EOLhyphen"/>ple, in the place that the Lord their God ſhould chuſe; and nothing here was left to the diſcre<g ref="char:EOLhyphen"/>tion of the Church and ſucceeding Ages, but was to be obſerved moſt punctually as <hi>Moſes</hi> had commanded, without any acceſſion or diminu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Now this being Figurative and Typical, repre<g ref="char:EOLhyphen"/>ſenting <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> things to come; and being pro<g ref="char:EOLhyphen"/>teſtations of Faith in a future Meſſiah, they were to expire when Chriſt came; and therefore <hi>de jure</hi> were cancelled at Chriſt's Paſſion, being nailed to his Croſs; and the whole body of them were <hi>de facto</hi> buried at the Deſtruction of the ſe<g ref="char:EOLhyphen"/>cond Temple, never to be raiſed again, but to be left with Chriſt's Grave Cloaths in the Sepulchre; ſo that a re-calling them out of thoſe Ruines, a raking them out of the aſhes of the Temple to ob<g ref="char:EOLhyphen"/>ſerve them, would not only be dangerous, but deadly; a <hi>proteſtatio facto contraria,</hi> a pregnant denial of Chriſts being come.</p>
+            <pb n="3" facs="tcp:61047:3"/>
+            <p>The Moral ſervice of God conſiſted in Prayers, and Praiſes, in Benedictions, and Vows, and Ado<g ref="char:EOLhyphen"/>rations, which Nature teaches every rational Crea<g ref="char:EOLhyphen"/>ture ſhould tender unto his Maker; and the ob<g ref="char:EOLhyphen"/>ligation to this is immutable and perpetual, by vertue of that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as <hi>Hie<g ref="char:EOLhyphen"/>rocles</hi> ſpeaks) that Oath of Allegiance and Fealty that Men make to God as ſoon as they are made.</p>
+            <p>Now the manner of performing this among the <hi>Jews,</hi> was much diſtant from that of their other ſervice, as being ſuppoſed by <hi>Moſes,</hi> and to be but collected from him; and though it was darkly inſinuated by him, yet (ſays <hi>Maimonides</hi>) Invoca<g ref="char:EOLhyphen"/>tion and Prayer was <hi>primariae intentionis,</hi> princi<g ref="char:EOLhyphen"/>pally intended, as being more grateful to God, <hi>Pſal.</hi> 69.30, 31. <hi>I will praiſe the name of God with Song, and magnifie him with Thanksgiving; this ſhall pleaſe the Lord better then a Bullock that hath Horns and Hoofs.</hi> However, it was left to the Prudence of the Church, and the <hi>Jews</hi> ſay, it was founded only on that general precept, to ſerve the Lord with all the heart, <hi>Deut.</hi> 11.13. <hi>Cultus cordis eſt precatio;</hi> but the number, and the form, and the time was not ſpecifyed; therefore the ma<g ref="char:EOLhyphen"/>nagement of this was the peculiar Province of their Prophets and Wiſe Men; it was their work to inſtruct the People, and reprove their ſins, and
+<pb n="4" facs="tcp:61047:4"/>preſs them to Spiritual Obedience, at ſuch times when the People might repair to them, 2 <hi>Kings</hi> 4.22. to praiſe God alſo with Pſalms and Songs, and to pray with and for the People, ſo <hi>Gen.</hi> 20. 7. 1 <hi>Kings</hi> 18.29, 36. 1 <hi>Sam.</hi> 12.19.23. And all this was not confined to the Temple, but was per<g ref="char:EOLhyphen"/>formed in their high places, the Schools of the Pro<g ref="char:EOLhyphen"/>phets, their Colleges and Synagogues: ſo that this ſervice, having it forms and determinations, its parts and increments from Prophets and inſpi<g ref="char:EOLhyphen"/>red perſons, could not but be conſonant to the divine will: thus <hi>Davids</hi> introducing of Muſick into this ſervice, was owned for the Command<g ref="char:EOLhyphen"/>ment of the Lord by his Prophets, 2 <hi>Chron.</hi> 29.25.</p>
+            <p>Admitting therefore this diſtinction of the ſer<g ref="char:EOLhyphen"/>vice of the Tabernacle, and of the Synagogue; the firſt was entirely aboliſhed, but the uſages and cuſtoms of the ſecond were not ſo deſtroyed or diſturbed, but might remain as patterns to be aſſumed ſtill, ſo far as they fitted the ends of Chri<g ref="char:EOLhyphen"/>ſtianity. Thus when Chriſt introduces his own Scheme of Reformation, like a true Reformer he does not widen the breach, but reduces the diffe<g ref="char:EOLhyphen"/>rences into as ſmall a compaſs as may be, and was therefore willing to retain ſuch Rites and Obſer<g ref="char:EOLhyphen"/>vations as contradicted not his oeconomy and diſ<g ref="char:EOLhyphen"/>penſation.</p>
+            <pb n="5" facs="tcp:61047:4"/>
+            <p>Thus learned men do declare, that the Go<g ref="char:EOLhyphen"/>vernment of the Chriſtian Church was modell'd according to that of the Synagogue, that our pra<g ref="char:EOLhyphen"/>ctice of Excommunication does correſpond with the Jewiſh, that our bleſſed Lord did elevate and adopt his Sacraments out of their Inſtitutions; Baptiſm being derived from their manner of initia<g ref="char:EOLhyphen"/>ting Proſelytes; and in the Lords Supper, that the whole action of Chriſts, was in purſuance of the Jewiſh Rites, is ſo certain, that I think no learned man at this day does doubt of it.</p>
+            <p>So here it was not intended by Chriſt and his Apoſtles to baulk their example in celebrating of praiſes and prayers to God; for ſeeing the Moral ſervice of God is to be the conſtant employment of all Chriſtians, and in the manner of it the Jewiſh Church is a laudable preſident, it is but reaſona<g ref="char:EOLhyphen"/>ble for us to ſerve God in that way, which we are ſure was once acceptable to him. And thus I come to the Text, wherein we have a Service,</p>
+            <p n="1">1. Impoſed and commanded by Authority, Hezekiah <hi>the King, &amp;c. commanded the Levites to ſing praiſe.</hi>
+            </p>
+            <p n="2">2. Compoſed and preſcribed in it ſelf; they are to ſing praiſe, <hi>with the words of</hi> David <hi>and of</hi> Aſaph <hi>the Seer.</hi> And therein conſider it,
+<list>
+                  <item>1. As a determined form,</item>
+                  <item>2. In the manner of its admini<g ref="char:EOLhyphen"/>ſtration,
+<pb n="6" facs="tcp:61047:5"/>and this will be a competent juſtification of the Service of our Church;</item>
+               </list> for none ever quar<g ref="char:EOLhyphen"/>relling with the matter of it, as if it contained any thing contrary to the Chriſtian Faith, the excepti<g ref="char:EOLhyphen"/>on muſt be,
+<list>
+                  <item>1. That it is a ſet, ſolemn, and com<g ref="char:EOLhyphen"/>poſed form, or,</item>
+                  <item>2. That the manner of perform<g ref="char:EOLhyphen"/>ing it is inconvenient: therefore if any here with the Jewiſh Children ſhall ſay, What meaneth this Service?</item>
+               </list> what is the ground of this procedure in your holy Offices? it will be ſufficiently defended to be (as S. <hi>Paul</hi> ſpeaks, <hi>Rom.</hi> 12.1.) a rational Ser<g ref="char:EOLhyphen"/>vice, if I can demonſtrate that by theſe meaſures God was worſhipped among the Jews, and that the Chriſtian Church did, and always intended to fol<g ref="char:EOLhyphen"/>low the Example.</p>
+            <p>Conſider then the words of <hi>David</hi> and <hi>Aſaph,</hi> 1. as a form of ſerving God; and of this I ſhall give account in theſe enſuing Propoſitions.</p>
+            <p n="1">1. The ſerving God by preſcribed forms of prayer and praiſe, hath been the conſtant practice of the Jews ever ſince they were a Church; for not to enquire into the Invocations of God in the time of <hi>Enos,</hi> and the occaſional Devotions of the Patriarchs,</p>
+            <p n="1">1. When the Jews came to be formed into a Church by <hi>Moſes,</hi> they had their forms. <hi>Moſes</hi> was a Prophet as well as a King, and the Chair of
+<pb n="7" facs="tcp:61047:5"/>
+               <hi>Moſes</hi> was a Chair of Doctrine as well as Govern<g ref="char:EOLhyphen"/>ment: he makes a prayer fitted for the State of the Jews in the Wilderneſs, <hi>Pſal.</hi> 90. and a Form of Thankſgiving, <hi>Exod.</hi> 15. and a Song which he ſpake in the ears of the people, <hi>Deut.</hi> 32. un<g ref="char:EOLhyphen"/>to verſ. 44. thus there is a form of prayer at pre<g ref="char:EOLhyphen"/>ſenting the Firſt-fruits, <hi>Deut.</hi> 26.5. at paying the third years Tyth, <hi>Deut.</hi> 26.13, 14. for ex<g ref="char:EOLhyphen"/>piation of uncertain Murder, <hi>Deut.</hi> 21.7, 8. at removing and reſting of the Ark, <hi>Num.</hi> 10.35, 36. There was alſo a preciſe form of benedi<g ref="char:EOLhyphen"/>ction from which the Prieſts muſt not vary, <hi>Num.</hi> 6.23, 24. <hi>On this wiſe ſhall ye bleſs the people,</hi> &amp;c. It determines the manner (ſay the Rabbins) as well as the words, on this wiſe.
+<list>
+                  <item>1. Standing up,</item>
+                  <item>2. In the holy Tongue,</item>
+                  <item>3. Their hands lifted up, and their fingers ſpread abroad,</item>
+                  <item>4. With a loud voice,</item>
+                  <item>5. Their faces towards the people,</item>
+                  <item>6. And with the Name <hi>Jehovah,</hi> if in the Sanctua<g ref="char:EOLhyphen"/>ry, and ſtill with the ſame words without addition or alteration.</item>
+               </list> They were to have prayers alſo attending their Sacrifices, ſolemn confeſſions of ſin over the Scape-goat for the people, and over the ſin-offerings for the Prieſts: the high Prieſt was to make confeſſion of his own ſins, and ano<g ref="char:EOLhyphen"/>ther for the ſins of the Prieſts, <hi>Lev.</hi> 16.6.21. All which were in ſolemn forms, to be found in the
+<pb n="8" facs="tcp:61047:6"/>Jewiſh Writings, and are ſet down by <hi>P. Fagius</hi> on the <hi>Chal. Paraphraſe.</hi>
+            </p>
+            <p n="2">2. Proceed we on to the time of <hi>David,</hi> and then we find conſiderable improvements made in this Service, all preſcribed; for he joyns the moral ſer<g ref="char:EOLhyphen"/>vice of God with the legal: the Levites who had had nothing to do when the Ark and the Taber<g ref="char:EOLhyphen"/>nacle were now fixt at <hi>Jeruſalem,</hi> were appoint<g ref="char:EOLhyphen"/>ed by courſe to ſtand every morning and evening to thank and praiſe the Lord, at all burnt Offe<g ref="char:EOLhyphen"/>rings, Sabbaths, and New-Moons, and ſet Feaſts, 1 <hi>Chro.</hi> 23.30. and 16.4. And the Sons of <hi>Aſaph,</hi> and <hi>Heman,</hi> and <hi>Jeduthun</hi> were appointed to pro<g ref="char:EOLhyphen"/>phecy with Harps, and Pſalteries, and Cymbals, and were inſtructed in the Songs of the Lord, 1 <hi>Chro.</hi> 25.1.6, 7. Theſe Songs were compoſed by <hi>David</hi> and <hi>Aſaph,</hi> and thoſe Singers that had the Spirit of Prophecy, and they became the fixt Liturgy of the Church. So 1 <hi>Chro.</hi> 16.7. there is the firſt Pſalm that <hi>David</hi> delivered into the hand of <hi>Aſaph,</hi> and the reſt were directed to the chief Muſitian; and though the titles of many are hard, as ſignifying probably the names of the In<g ref="char:EOLhyphen"/>ſtruments or Tunes to which they were ſung; yet there are that ſignifie alſo the purpoſe of their in<g ref="char:EOLhyphen"/>diting, ſo the Pſalm for the Morning, <hi>Pſal.</hi> 22. and the Sabbath, <hi>Pſal.</hi> 92. and thoſe of degrees,
+<pb n="9" facs="tcp:61047:6"/>which, ſay the Rabbins, were ſung on the fifteen ſteps that went up to the court of the Prieſts; and in the ordinary courſe, on the firſt day of the week was ſung the <hi>Pſal.</hi> 24. on the ſecond day, <hi>Pſal.</hi> 48. on the third, <hi>Pſal.</hi> 82. on the fourth, <hi>Pſal.</hi> 94. on the fifth, <hi>Pſal.</hi> 81. on the ſixth, <hi>Pſal.</hi> 93. and on the ſeventh, the Song for the Sabbath day, <hi>Pſal.</hi> 92. What was thus ordained by <hi>David,</hi> was confirmed by <hi>Solomon,</hi> 2 <hi>Chron.</hi> 7.6. and revi<g ref="char:EOLhyphen"/>ved by <hi>Hezekiah,</hi> 2 <hi>Chron.</hi> 29.25. &amp;c.</p>
+            <p n="3">3. Let us come at length to <hi>Ezra,</hi> and the ſe<g ref="char:EOLhyphen"/>cond Temple, then this was likewiſe practiſed; for <hi>Ben Syrach</hi> moſt punctually deſcribes the ſer<g ref="char:EOLhyphen"/>vice, <hi>Ecclus.</hi> 50. and when the Foundations of the ſecond Temple were laid, <hi>Ezra</hi> 3.10, 11. and <hi>Nehemiah</hi> 12.45, 46. they ſung by courſe, <hi>For. his mercy endureth for ever;</hi> and the Singers kept the word of their God, according to the Com<g ref="char:EOLhyphen"/>mandment of <hi>David,</hi> &amp;c. I ſhall adde two things concerning their Prayers then; [that]</p>
+            <list>
+               <item>1. The People returning from the Captivity, by converſing with ſtrangers had broken and cor<g ref="char:EOLhyphen"/>rupted their Language; had therefore certain forms of Prayer deviſed by <hi>Ezra,</hi> and enjoyned by the <hi>Sanhedrim,</hi> which then conſiſted of Pro<g ref="char:EOLhyphen"/>phets and Good Men, and were conſtantly to be uſed by the People, as <hi>preces officii neceſſario prae<g ref="char:EOLhyphen"/>ſtandi,</hi>
+                  <pb n="10" facs="tcp:61047:7"/>and theſe were called the eighteen Bene<g ref="char:EOLhyphen"/>dictions; ſo ſtyled, becauſe their Prayers began uſually with (Bleſſed be thou O Lord God King of the World) the three firſt, and the three laſt related to the Glory of God; the other twelve requeſted <hi>humano generi neceſſaria,</hi> good things fit for all Men: theſe, by all <hi>Jews</hi> are aſcribed to <hi>Ezra,</hi> and it is acknowledged by our Adverſaries, afterwards the number did encreaſe; <hi>Gyamaliel</hi> adding one, and others more, till at laſt they are ſwollen up to the number of an hundred Benedi<g ref="char:EOLhyphen"/>ctions, which are to be repeated every day by every <hi>Jew;</hi> and this is practiſed to this day amongſt them, as <hi>Buxtorf</hi> witneſſeth in his <hi>Jewiſh</hi> Synagogue.</item>
+               <item>2. The People uſed forms of Prayer in the Temple; for that being an houſe of Prayer, and there being hours appointed for Prayer, there muſt be Prayers appointed for thoſe hours; thus the People were Praying without at the time of Incenſe, <hi>Luke</hi> 1.10. vid. <hi>Rev.</hi> 8.3, 4. Now that theſe were common and preſcribed, we are aſſu<g ref="char:EOLhyphen"/>red from the <hi>Rabbins,</hi> who are the moſt compe<g ref="char:EOLhyphen"/>tent witneſſes of their own Religion; for they ſay, that beſide the repeating the Decalogue and their Philacteries, they had Prayers, particularly three, which were to be uſed at the time of In<g ref="char:EOLhyphen"/>cenſe,
+<pb n="11" facs="tcp:61047:7"/>called <hi>Emeth, Gnabodah,</hi> and <hi>Shem Shalom,</hi> becauſe they began with thoſe words; they are ſet down by <hi>Lightfoot</hi> in his Deſcription of the Temple-ſervice, <hi>Cap.</hi> 9.</item>
+            </list>
+            <p>
+               <hi>Selden</hi> indeed from <hi>Maimonides</hi> acquaints us, that there was <hi>precatio ultronea,</hi> as well as <hi>imperata,</hi> but ſo qualifyed, as highly confirms our preſent purpoſe; as,</p>
+            <list>
+               <item>1. Thoſe voluntary Prayers were not to be on Sabbaths and Feaſts, becauſe the Law had provi<g ref="char:EOLhyphen"/>ded for them, and nothing that was arbitrary was then admitted.</item>
+               <item>2. They were not to be admitted with ap<g ref="char:EOLhyphen"/>pointed Sacrifices; for they had ſet Prayers, but voluntary Sacrifices; Free-will Offerings might have free and unpreſcribed Prayers.</item>
+               <item>3. The whole Congregation might not uſe theſe arbitrary Prayers, and <hi>Maimon.</hi> gives the rea<g ref="char:EOLhyphen"/>ſon, becauſe by the Law the whole Aſſembly could offer no Sacrifice but what was preſcribed.</item>
+               <item>4. This arbitrary Prayer ſeems not to be of preſent Conception, but as was the Sacrifice, ſo was the Prayer, prepared, though not preſcribed. A Prayer is the better for being conſidered of, it cannot be the worſe: Such was the <hi>Prodigals</hi> Prayer, he comes with a ſet ſpeech, <hi>Father I have ſinned againſt Heaven,</hi> &amp;c. he had digeſted, and
+<pb n="12" facs="tcp:61047:8"/>conſidered before what he ſhould ſpeak, and he delivers the very ſame words, <hi>Luke</hi> 15.18. So ſays God, <hi>Take with you words, and turn unto the Lord, and ſay, take away iniquity, receive us graciouſly, and ſo will we render the calves of our lips,</hi> Hoſea 14.2.</item>
+            </list>
+            <p n="2">2. <hi>Prop.</hi> Chriſt himſelf did approve of, and conform unto the <hi>Jewiſh</hi> practiſe in this particu<g ref="char:EOLhyphen"/>lar: ſure none can imagine that he would have kept to the <hi>Jewiſh</hi> forms if they had been faulty; when he delivers the Doctrine of Prayer, he re<g ref="char:EOLhyphen"/>prehends the Heathens for Battology, and the <hi>Phariſees</hi> of vain-glory in their Prayers, but de<g ref="char:EOLhyphen"/>cries not their forms; he was preſent at the Tem<g ref="char:EOLhyphen"/>ple, and in their Synagogues, not only at their ordinary ſervice, but at their Sabbaths and Feſti<g ref="char:EOLhyphen"/>vals, without any diſlike: He preſcribes a form of Prayer to his Diſciples for their uſe, as well as imitation. Concerning that Prayer, obſerve two things,</p>
+            <p n="1">1. Obſerve that the expreſſions of this Prayer are taken out of the <hi>Jewiſh</hi> forms: <hi>Druſius, Ca<g ref="char:EOLhyphen"/>pellus,</hi> and our <hi>Gregory,</hi> collect the words of this Prayer out of <hi>Sepher Tephilloth,</hi> and <hi>Muſar;</hi> their Prayer-Books borrowed not from Chriſt, but it was uſual with him to uſe their known Phraſes and Forms of Speech; ſo far was he from affect<g ref="char:EOLhyphen"/>ing any unneceſſary novelty.</p>
+            <pb n="13" facs="tcp:61047:8"/>
+            <p n="2">2. Remember that this Prayer was in expreſs words twice given his Diſciples; <hi>Mat.</hi> 6. he deli<g ref="char:EOLhyphen"/>vers it in the Sermon on the Mount, when diſ<g ref="char:EOLhyphen"/>courſing on Prayer; but <hi>Luke</hi> 11. it was at ano<g ref="char:EOLhyphen"/>ther time, on another occaſion, at the requeſt of his Diſciples, teaching them to Pray as <hi>John</hi> taught his; and he gives not only the Heads of Prayer, but a Prayer it ſelf, and ſo it is not only a rule to Pray by, but a form to Pray in.</p>
+            <p>Chriſts own practiſe alſo ſpeaks his approbation; he Sang an Hymn with his Diſciples <hi>Mat.</hi> 26.30. ſuppoſed to be the great Hallelujah, from <hi>Pſalm</hi> 113. to <hi>Pſalm</hi> 119. however it was a known Form that his Diſciples knew to join in: ſo when he Prayed moſt earneſtly, he uſed the ſame words thrice, <hi>Mat.</hi> 26.44. his complaint on the Croſs was from <hi>Pſal</hi> 22. and when he gave up the Ghoſt, he commended his Spirit in a Form of words, from <hi>Pſal.</hi> 31.5.</p>
+            <p n="3">3. <hi>Prop.</hi> While the Apoſtles lived, there was in the Church an extraordinary gift of Prayer that ſupplyed the place of ſtated Forms; for among the ſpiritual gifts that were then poured out, there was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſays Saint <hi>Chryſoſtom,</hi> a gift of Prayer, a branch of the gift of Tongues; and he that had it, prayed for the reſt, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, taught others to form Prayers; and this was pray<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:61047:9"/>in the Spirit, <hi>Eph.</hi> 6.18. <hi>Jude</hi> v. 20. thus he underſtands, <hi>Rom.</hi> 8.26. <hi>The Spirit helpeth our infirmities, for we know not what we ſhould Pray for as we ought.</hi> 1 Cor. <hi>cap.</hi> 14. there is a full ac<g ref="char:EOLhyphen"/>count of theſe inſpirations in the Chriſtian Aſſem<g ref="char:EOLhyphen"/>blies; and there is mentioned, <hi>praying in an un<g ref="char:EOLhyphen"/>known Tongue,</hi> and <hi>pray with the Spirit, and bleſs with the Spirit,</hi> v. 14.15, 15. For all the parts of Gods ſervice conſiſting in Prayers, and Prophe<g ref="char:EOLhyphen"/>cyings, and ſetting forth Gods praiſes by Pſalms, all theſe were performed by extraordinary Inſpi<g ref="char:EOLhyphen"/>rations, and are there enjoined to be done orderly, and for edification; and it was certainly then moſt fit they ſhould be guided as infallibly in their De<g ref="char:EOLhyphen"/>votions, as in their Faith.</p>
+            <p n="4">4. <hi>Prop.</hi> But as theſe Inſpirations withdrew, ſo ſet compoſed Forms ſucceeded in the Church, according to the <hi>Jewiſh</hi> Preſident; for if the Apoſtles themſelves had this extraordinary gift, becauſe they were not fit to be truſted with their own natural endowments, when theſe gifts ſur<g ref="char:EOLhyphen"/>ceaſed, every Man was not to Pray in publick as he pleaſed, but Liturgies were provided by the Governours of the Church, Apoſtolical Men that had benefited under the Prayers of thoſe that had the gift, and remembred ſome paſſages, at leaſt the order and manner that had been uſed by them.
+<pb n="15" facs="tcp:61047:9"/>Therefore I lay no ſtreſs on the ſuppoſed Litur<g ref="char:EOLhyphen"/>gies of St. <hi>Peter,</hi> St. <hi>Mark,</hi> and St. <hi>James,</hi> though ſome expreſſions from them might have cauſed ſuch imputations; and the body of thoſe offices were uſed in the Churches where thoſe Holy Men Preſided as Biſhops. But when St. <hi>Paul</hi> directs <hi>Timothy</hi> to provide that Supplications, and Prayers, and Interceſſions, and Thankſgivings be made; he intends that publick offices of Devotion ſhould be conſtantly uſed, for averting evil, and for pro<g ref="char:EOLhyphen"/>curing good things; interpellations for others, and returning acknowledgments for mercies recei<g ref="char:EOLhyphen"/>ved, 1 <hi>Tim.</hi> 2.8. which St. <hi>Auſtin</hi> applies to the <hi>Euchariſt,</hi> and the Prayer that then was for all eſtates of Men, which we ſtill retain in that for the Catholick Church: This was from the begin<g ref="char:EOLhyphen"/>ning, and is mentioned in the Conſtitutions called Apoſtolical (which though not ſo antient as they pretend, yet certainly deſcribe the firſt Ages of the Church) particularly Kings were there Prayed for, that God would grant them in health and wealth long to live, <hi>vitam illis prolixam, imperium ſecurum, domum tutam, exercitus fortes, ſenatum fi<g ref="char:EOLhyphen"/>delem, probum populum, orbem quietum,</hi> Tert. and whatſoever are the wiſhes of Prince or People.</p>
+            <p>We find Forms for the Sacraments, beſides the words of Inſtitution; in Baptiſm there are known
+<pb n="16" facs="tcp:61047:10"/>Forms of Interrogation and Abrenunciation, <hi>Con<g ref="char:EOLhyphen"/>ſtitut. Apoſt. Tertul. Cypr.</hi> and in the other there is, <hi>ſolennis benedictio, Cypr.</hi> which always had the Lords Prayer annexed to it: So there were alſo Forms for ſeveral ſorts, <hi>Catechumeni,</hi> Hearers, Penitents, <hi>&amp;c.</hi> and Believers had their regular Prayers with which they beſieged God, <hi>quaſi mann facta,</hi> as with an Army, <hi>Tertul.</hi> This was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Ignatius,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Juſtin. Mart.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in <hi>Origen. Con. Celſ. l. 6. p.</hi> 302. and it muſt be remembred that theſe Prayers were per<g ref="char:EOLhyphen"/>formed by the Deacon: from whence a moſt judi<g ref="char:EOLhyphen"/>cious Man well infers, that they were ſet and pre<g ref="char:EOLhyphen"/>ſcribed, and not left to the diſcretion and ability of thoſe in ſo mean rank, it being no ways fit that they ſhould direct the Prayers of thoſe that preſi<g ref="char:EOLhyphen"/>ded in the Church.</p>
+            <p>I need not therefore take Sanctuary at the <hi>Lao<g ref="char:EOLhyphen"/>dicean</hi> Canons, nor the after Liturgies of many Churches; nor will I argue that ſet Forms are helps to the weak and baſhful, that cannot or dare not expreſs their minds in publick; Directories to regulate our requeſts, and keep them from Te<g ref="char:EOLhyphen"/>merity, Errour, or Impertinency, preſervatives of Unity and Unanimity in the Church; when with one lip we call upon God, all ſpeaking the ſame thing, being perfectly joined together in the ſame
+<pb n="17" facs="tcp:61047:10"/>mind, and in the ſame judgment, 1 <hi>Cor.</hi> 1.10. but I urge, that when it appears Gods Antient People have had ſet Forms, and they are approved of by Chriſt, and introduced into the Chriſtian Church, and admitted in all places, and rejected in no Ages; nay, their conveniency never doubted or diſpu<g ref="char:EOLhyphen"/>ted of till this laſt Generation; 'tis the greateſt wilfulneſs, or the greateſt weakneſs, not to ſubmit unto them.</p>
+            <p n="2">2. Conſider this Form in the manner and cir<g ref="char:EOLhyphen"/>cumſtances of its Adminiſtration; the firſt I ſhall mention is found in the Text, 1. <hi>Singing Praiſe un<g ref="char:EOLhyphen"/>to the Lord.</hi> Thus Hymns are defined by St. <hi>Auſtin,</hi> to be <hi>Cantus concinentes laudem Dei,</hi> they muſt be Praiſe, they muſt be of God, and they muſt be Sung. That Singing and Muſick in Gods ſervice was the <hi>Jewiſh</hi> Practiſe, none can deny; that Chri<g ref="char:EOLhyphen"/>ſtians did derive this from them is very evident, for beſides the example of the Angels, <hi>Luk.</hi> 2.13. and Chriſt, <hi>Mat.</hi> 26.30. and the Saints that Sing the Song of <hi>Moſes</hi> and the <hi>Lamb, Rev.</hi> 14.3. and 15.3. it was the Chriſtians Practiſe when the In<g ref="char:EOLhyphen"/>ſpirations laſted, 1 <hi>Cor.</hi> 14.26. and they are en<g ref="char:EOLhyphen"/>joyned to teach and admoniſh one another in Pſalms, and Hymns, and Spiritual Songs, <hi>Col.</hi> 3.16. Thus the <hi>Jews</hi> had <hi>[Mizmor]</hi> a conciſe verſe, called here a <hi>Pſalm [Tehillah]</hi> Praiſe, which is here
+<pb n="18" facs="tcp:61047:11"/>the Hymne, and <hi>[Shir]</hi> a Canticle, which is here required to be Spiritual in oppoſition to the ſen<g ref="char:EOLhyphen"/>ſual Songs and Drolleries of the Heathens in their <hi>Bacchanalia;</hi> and they are mentioned in the moſt Antient Church-Writers, as a ſpecial part of the Chriſtian ſervice; and this is teſtifyed by <hi>Pliny</hi> to <hi>Trajan,</hi> that in their <hi>coetus antelucani,</hi> they were wont to ſing Hymns to Chriſt, as to God, and for this they are quarrelled with by <hi>Paulus Samoſatenus in Euſebius,</hi> l. 7. c. 29. Afterwards in the <hi>Loadicean</hi> Council, there are authorized Cano<g ref="char:EOLhyphen"/>nical Singers, that ſhall ſing at the Desk out of the Parchments and Rolls of the Church, <hi>Can.</hi> 15. and when they were thus regulated, Holy Men com<g ref="char:EOLhyphen"/>poſed Hymns, and Anthems, as St. <hi>Hillary,</hi> and St. <hi>Ambroſe,</hi> to the great comfort and edification of the Church.</p>
+            <p>I ſhall leave theſe Memories with you concern<g ref="char:EOLhyphen"/>ing this Practiſe.</p>
+            <p n="1">1. There was a degree of Inſpiration peculiar to this among the <hi>Jews,</hi> when Men were Tranſ<g ref="char:EOLhyphen"/>ported to endite Pſalms, and ſpeak the Praiſes of God, and Divine things to his Glory, without any extaſie or abolition of ſenſe; this is called the Holy Spirit. Thus <hi>Saul,</hi> the ſeventy Elders, and <hi>Eldad,</hi> and <hi>Medad</hi> Propheſied; and hence the word Propheſie came to ſignifie the Singing of
+<pb n="19" facs="tcp:61047:11"/>Pſalms, and all that proportion which in the divi<g ref="char:EOLhyphen"/>ſion of S. Scripture, is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, was endited by this Inſpiration: this <hi>David</hi> had, 2 <hi>Sam.</hi> 23.2. and prayed ſhould not be taken away from him, <hi>Pſal.</hi> 51.11.</p>
+            <p n="2">2. Thoſe things that were thus uttered, were oft in the Form of Poems, and confined to num<g ref="char:EOLhyphen"/>ber and Metre; thus <hi>Moſes</hi> his Songs were in verſe and meaſure, and though I do not aſcribe the be<g ref="char:EOLhyphen"/>ginnings of Muſick to him, <hi>Gen.</hi> 4.21. <hi>Job</hi> 35. 10. and 38.7: yet, as he firſt found out the uſe of Letters, ſo I make him the firſt Poet in the World. Thus alſo the Songs of <hi>Solomon,</hi> and <hi>David,</hi> and the Book of <hi>Job</hi> were metrical; ſo <hi>Joſephus</hi> ſays of <hi>David</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he compo<g ref="char:EOLhyphen"/>ſed Verſes in ſeveral kinds of Metre, ſome Trime<g ref="char:EOLhyphen"/>ters, ſome Pentameters, <hi>Antiq.</hi> 7.10.</p>
+            <p n="3">3. The ſame expreſſions would be oft inſiſted on, and there might be an elegancy in the Muſick or the Verſe to repeat the ſame: if in our Prayers, uſing of Ingeminations, and enforcing the ſame Petitions, when we importune Heaven, and would excite our Devotions, and the ſenſe of our Con<g ref="char:EOLhyphen"/>dition, be a commendable piece of Rhecorick, much more in Hymns and Anthems: ſo <hi>Pſal.</hi> 136. <hi>David</hi> uſes twenty ſix times the ſame words <hi>[For his Mercy endureth for ever]</hi> in <hi>Deborahs</hi> Song,
+<pb n="20" facs="tcp:61047:12"/>
+               <hi>Jud.</hi> 5.27. <hi>At her Feet he bowed, he fell, he lay down, at her Feet he bowed, he fell, where he bowed, there he fell down Dead;</hi> a like inſtance is <hi>Pſal.</hi> 47.6, 7. <hi>Sing praiſes to God, ſing praiſes, ſing praiſes unto our King, ſing praiſes: For God is King of all the Earth, ſing ye praiſes with under<g ref="char:EOLhyphen"/>ſtanding.</hi> And there might be a great Grace and Elegance in dwelling upon the ſame words, though we that Trade in Tranſlations may not perceive it; for they, like <hi>Arras,</hi> with the wrong ſide out, diſcover only ſome great lines, but the gloſs and beauty cannot be diſcerned.</p>
+            <p n="4">4. The matter of theſe Pſalms were not al<g ref="char:EOLhyphen"/>ways of the ſame Nature, not always depredicati<g ref="char:EOLhyphen"/>ons of Gods Name; but ſometimes things Doctri<g ref="char:EOLhyphen"/>nal, and for Inſtruction, and ſome things for Con<g ref="char:EOLhyphen"/>ſolation, Confeſſions of Faith, and Confeſſions of Sin, as well as Confeſſions of Praiſe, Petitions and Supplications. Therefore Singing Prayers ought not to be ſtrange; for the Penitential Pſalms, and the Titles of many others, as <hi>Pſal.</hi> 86. and 102. and 142. and the <hi>Pſalmiſts</hi> frequent addreſſes to hear his Prayers, abundantly confirm this; ſo that it is not the matter that diſtinguiſhes them from the other parts of the ſervice, but the manner of per<g ref="char:EOLhyphen"/>forming them.</p>
+            <p n="5">5. The Muſick with which they were mana<g ref="char:EOLhyphen"/>ged,
+<pb n="21" facs="tcp:61047:12"/>muſt anſwer the ends of Religion, and be for Edification; all wanton Muſick therefore that tends to effeminacy, and ſoftning Mens Minds, ſuch as the <hi>Phrygians</hi> uſed, called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is to be baniſhed: <hi>Mutatâ Muſicâ mut antur mores; ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cu<g ref="char:EOLhyphen"/>randum, ut Muſica quam graviſſima &amp; ſedatiſſima retineatur,</hi> ſays <hi>Tully.</hi> For this reaſon St. <hi>Auſtin</hi> commends the Chanting at <hi>Alexandria,</hi> that <hi>pro<g ref="char:EOLhyphen"/>nuncianti vicinior eſſet quam canenti.</hi>
+            </p>
+            <p>What it was with the <hi>Jews</hi> is not eaſie to de<g ref="char:EOLhyphen"/>termine; I find there could be no leſs then twelve voices, one Cymbal, two Harps, and nine Pſalte<g ref="char:EOLhyphen"/>ries, but there might be many more: As for the Trumpets, which might be 120. I conceive they were no part of the Quire, there could be no Sing<g ref="char:EOLhyphen"/>ing to them, for (as the <hi>Jewiſh</hi> Doctors inform us) there were three reſts or intermiſſions in the Sing<g ref="char:EOLhyphen"/>ing of every Pſalm, and at each of theſe pauſes the Trumpets ſounded, and the People Worſhipped; ſo the Trumpets ſounded not but when the Quire was ſilent.</p>
+            <p n="6">6. Remember that all this Muſick and Singing is, <hi>propter carnales in Eccleſia, non ſpirituales,</hi> rather for the weak, then for the ſtrong, <hi>Iſidor.</hi> The deſign being, <hi>ut per oblectamenta aurium animus in affectum pietatis a ſurgat,</hi> Aug. That by delight<g ref="char:EOLhyphen"/>ing the Ear, the Heart may be affected, and devo<g ref="char:EOLhyphen"/>tion advanced.</p>
+            <pb n="22" facs="tcp:61047:13"/>
+            <p>We ſing therefore not for Gods ſake, but our own; not to work on him, but on our ſelves: the Angels in Heaven need not theſe ſpurs to Devo<g ref="char:EOLhyphen"/>tion, they utter the Praiſes of God at a rate be<g ref="char:EOLhyphen"/>yond our apprehenſions, and the more ſpiritual we are, the leſs we require them; but yet he that is not moved in ſome meaſure with them, forgets he is fleſh and blood. St. <hi>Auſtin</hi> had many tears pumped out by them <hi>(quantum flevi in Hymnis &amp; canticis tuis, ſuave ſonantis Eccleſiae vocibus commotus acriter)</hi> the melting of the Soul, the thawing and entendering the affections, the exor<g ref="char:EOLhyphen"/>ciſing the evil ſpirit out, and fitting us for Divine Thoughts, and Heavenly Impreſſions (which are vaſt advantages, conſidering the ſtupidity of our Hearts) makes them uſeful inſtruments in Religi<g ref="char:EOLhyphen"/>on: and ſure we ſhould be glad of any Crain or Pully, any Device or Engine to elevate our Souls, and bring us nearer Heaven, ſeeing we labour un<g ref="char:EOLhyphen"/>der ſo great a chilneſs and heavineſs in the ſervice of God.</p>
+            <p n="2">2. Another circumſtance is the intereſt the Peo<g ref="char:EOLhyphen"/>ple had in the ſervice by way of reſponſe or alter<g ref="char:EOLhyphen"/>nation; which practiſe I ſhall not derive from St. <hi>Ignatius</hi> his Viſion, nor <hi>Flavianus, Damaſus,</hi> or St. <hi>Ambroſe,</hi> when it is founded on Holy Scripture: thus was Sung the Song of <hi>Moſes,</hi> by <hi>Miriam,</hi> and
+<pb n="23" facs="tcp:61047:13"/>the <hi>Women that went out after her,</hi> Exod. 15.21. and ſo oft the <hi>Pſalms</hi> of <hi>David,</hi> for it appears that ſome <hi>Pſalms</hi> are <hi>Dramatick,</hi> and the Perſons changed, <hi>Pſal.</hi> 118. and the <hi>Burdens</hi> at ſet Periods are repeated, <hi>Pſal.</hi> 107.8, 15, 21, 31. This <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> and <hi>Molerus</hi> do acknowledge, and it is ex<g ref="char:EOLhyphen"/>preſſed, <hi>Ezra</hi> 3.11. that <hi>they Sung together by courſe:</hi> ſo the <hi>Seraphim</hi> in <hi>Iſaiahs</hi> Viſion, <hi>cryed unto one another, Iſa.</hi> 6.3. this cryed to this, <hi>holy, holy, holy,</hi> &amp;c. Thus the People were to bleſs God in the Congregations, which could not be by a bare Amen, 1 <hi>Chron.</hi> 16.35, 36. and 29.20. and 2 <hi>Chron.</hi> 7.3. Nay (they ſay) they were not to ſay A<g ref="char:EOLhyphen"/>men within the Mountain of the Temple, but, <hi>Bleſſed be the Lord God of</hi> Iſrael, <hi>from everlaſting unto everlaſting, Pſal.</hi> 72.19.</p>
+            <p>So in the Chriſtian Church the People were not to be Spectators, and not Actors, but had their ſhares in Prayers and Praiſes, which Saint <hi>Paul</hi> al<g ref="char:EOLhyphen"/>lows to Women, 1 <hi>Cor.</hi> 11.5. and he aſſigns the Laity their place, <hi>the room of the unlearned,</hi> 1 <hi>Cor.</hi> 14.16. though at the <hi>Euchariſt</hi> they ſaid but Amen at Conſecration; which <hi>Juſtin.</hi> teſtifies, was with a loud voice; <hi>ad ſimilitudinem coeleſtis tonitrui populus reboat,</hi> Hierom. And this is heard as far as Heaven, if it be not a faulty Amen; <hi>Amen pu<g ref="char:EOLhyphen"/>pillum, ſurreptitium, ſectile,</hi> when the Prayer is not
+<pb n="24" facs="tcp:61047:14"/>underſtood, not finiſhed, not minded; but (ſay the <hi>Jews</hi>) he that ſays Amen with all his might, the Cate of the Garden of <hi>Eden</hi> ſhall be open un<g ref="char:EOLhyphen"/>to him, this is <hi>Amen juſtorum.</hi>
+            </p>
+            <p>But this was not all; for in the firſt inſpired Prayer that we find, after the gift was poured out, the whole <hi>company lift up their voice to God with one accord, and Prayed, Acts</hi> 4.24. not that they were all inſpired with the ſame words, but joined with him that was; vocally repeating after him, as we now follow the Miniſter in the Confeſſion.</p>
+            <p>So in the <hi>Pſalms</hi> the People repeated, ſome<g ref="char:EOLhyphen"/>times the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſometimes whole Verſes, whole Parts, by Courſes, or whole Quires, and <hi>tot penè Pſallentium chori, quot gentium diverſitates,</hi> Hier. different Countries had their different Modes The words of <hi>Tertullian</hi> found this way, <hi>ſonant inter duos Pſalmi &amp; Hymni, &amp; mutuò provocant quis meliùs Deo ſuo cantet.</hi> Tert. ad Uxon. And that of <hi>Pliny</hi> ſignifies no leſs, that the Chriſtians were wont, <hi>carmen Chriſto ut Deo dicere ſecum invicem.</hi>
+            </p>
+            <p>Let me adde two Inſtances for farther proof of this.</p>
+            <p n="1">1. The <hi>ſurſum Corda</hi> [<hi>Pr.</hi> Lift up your Hearts. <hi>Anſ.</hi> We lift them up unto the Lord. <hi>Pr.</hi> Let us give thanks unto our Lord God. <hi>Anſ.</hi> It is meet and right ſo to do.] mentioned by St. <hi>Cyprian,</hi> and
+<pb n="25" facs="tcp:61047:14"/>
+               <hi>Conſtitut. Apoſtol.</hi> and found in all Antient Litur<g ref="char:EOLhyphen"/>gies juſt where we place it, and believed by Saint <hi>Auſtin</hi> to be, <hi>verba ab ipſorum Apoſtolorum tempo<g ref="char:EOLhyphen"/>ribus petita,</hi> a ſure proof of Forms, and the Peo<g ref="char:EOLhyphen"/>ples part in them.</p>
+            <p n="2">2. The other is of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or allocutions made by the Deacon to the People, in behalf of Hearers, Penitents, <hi>&amp;c.</hi> mentioning the particulars to be prayed for, and at the end of each, the People reſponded <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which juſtifies Forms by Le<g ref="char:EOLhyphen"/>tanies, and biddings, or Exhortations to Prayer.</p>
+            <p n="3">3. A third Circumſtance I may call the inter<g ref="char:EOLhyphen"/>ruption of the ſervice, from,
+<list>
+                  <item>1. The ſhortneſs and conciſeneſs of the Prayers,</item>
+                  <item>2. The mingling of them with <hi>Pſalms.</hi>
+                  </item>
+                  <item>3. The interpoſing of portions of Holy Scripture to be read.</item>
+                  <item>4. And laſtly, The placing the Homily or Sermon with<g ref="char:EOLhyphen"/>in it.</item>
+               </list> I ſhall not encroach on your Patience by dwelling on theſe particulars, ſeeing they may be eaſily defended from the grounds already laid, and have the concurrent practiſe of <hi>Jews</hi> and Chriſti<g ref="char:EOLhyphen"/>ans to vouch for them; but ſhall cloſe up all with a double expoſtulation.</p>
+            <p n="1">1. To thoſe that own not our ſervice, but prefer a preſent conception before the iſſue of the graveſt deliberation, the private ſpirit of a ſingle Perſon, before the publick ſpirit of the whole Church; that are content the People ſhould be
+<pb n="26" facs="tcp:61047:15"/>tyed to the Prayer of the Miniſter, but not the Miniſter to the Prayers of the Church; nay, will run all hazards of Impertinency, Non-ſence, or Blaſphemy, rather then join in thoſe Prayers where their Faith and Religion is ſecured, and to which they can ſafely ſay Amen.</p>
+            <p>What would theſe Men be at? Would they manage all by immediate Inſpirations like the Apoſtles? Then let them ſpeak with Tongues, reveal Secrets, deſign Miniſters, decide Contro<g ref="char:EOLhyphen"/>verſies by Inſpiration, and we will admit of their Prayers in behalf of the Church: or if they can<g ref="char:EOLhyphen"/>not give theſe <hi>proofs of Chriſts ſpeaking in them,</hi> let them at leaſt demonſtrate by diſtinctive Chara<g ref="char:EOLhyphen"/>cters, that their words cannot iſſue from wit, or paſſion, or natural Enthuſiaſm; but are of a diffe<g ref="char:EOLhyphen"/>rent ſtamp from that fervent, confident, fluent pouring out of Divine things, which hath been obſerved in the worſt of Men.</p>
+            <p>Do they think theſe Forms are contrary to the aſſiſtance of Gods Holy Spirit, and the gifts of Prayer? For my part, I wiſh with <hi>Moſes, all Gods people were Prophets,</hi> and that every one had the gift and the grace of Prayer: But I cannot underſtand that the aſſiſtance of Gods Spirit excludes thoſe other means whereby his gifts and graces are enlarged, or that it is of a dif<g ref="char:EOLhyphen"/>ferent nature from that which we expect, or find
+<pb n="27" facs="tcp:61047:15"/>in other Holy Duties; much leſs that the Spirit is the praying perſon, or that he is a <hi>Mercury,</hi> a god of Eloquence, that ſuggeſts words or matter, or delights in Rhetorick and abundance of Speech; he lodges not in the Tongue, but in the Heart, by affecting it, by enlivening it, by enlarging it, which may be by old accuſtomed words, as well as thoſe that are minted from the moſt extemporary fancy.</p>
+            <p>Or will they have their God to be tyred with the oft repeating the ſame Prayer? Alas! what thoughts have theſe Men of the Majeſty of Hea<g ref="char:EOLhyphen"/>ven, and the Nature of Religion? Is not this an ex<g ref="char:EOLhyphen"/>preſs transforming God into their own imaginati<g ref="char:EOLhyphen"/>ons, a meaſuring him by the infirmities of fleſh and blood? For new Prayers can only delight us, as they gratifie the carnal Palate; as there is a ſen<g ref="char:EOLhyphen"/>ſual Pleaſure in the variety, like the change of diet which miniſters not to health, but wantonneſs, or curioſity. And if this be a diſtemper to be mor<g ref="char:EOLhyphen"/>tifyed and ſubdued in us, rather then encouraged, let not God be charged with it. Is it not the ſcope of Devotion to ſpeak great things of the name of God, and little things of our ſelves? to aſcribe all the Glory to him, and ſhame to our ſelves? and may all things be the ſame but the words? Sure if they be acceptable once, they may
+<pb n="28" facs="tcp:61047:16"/>be ſo twice, and I know not how they can be worſe for wearing.</p>
+            <p>I here pity ſome, that through education are miſled in this particular; <hi>of ſome have compaſſion</hi> (ſays the Apoſtle) <hi>making a difference;</hi> but if men ſhall refuſe to be inſtructed, and diſown our Com<g ref="char:EOLhyphen"/>munion, and not join with us in thoſe Offices by which we ſtand a viſible Church, let them look to themſelves how they can anſwer at the Tribunal of Heaven for their contempts, and ſcandals, and incurring the horrible crime of Schiſm.</p>
+            <p n="2">2. To thoſe that pretend to own it, but either neglect attendance on it, or join in it only <hi>pro<g ref="char:EOLhyphen"/>forma,</hi> drawing near with the Mouth, when the Heart is far from God. I am aſhamed to take no<g ref="char:EOLhyphen"/>tice that Men profeſſing Chriſtianity, ſhall yet think the duties of it a drudgery too ungentile for them; they would manage their Spiritual Eſtates by Stewards, be carried to Heaven as in a Coach or Chair, with the pains of others, themſelves minding or intending ſome other thing: or if they afford God their outward preſence, they think they honour him ſufficiently with an impli<g ref="char:EOLhyphen"/>cite recital of the holy offices of the Church, whilſt Formality eats out the Devotion, the Prayers dropping from them in ſuch a languiſhing man<g ref="char:EOLhyphen"/>ner, as if their Souls were not awake. Is this the
+<pb n="29" facs="tcp:61047:16"/>ſtorming Heaven, the <hi>vis grata Deo,</hi> Tert. The holy violence and importunity by which we ſhould wreſtle and prevail with God? <hi>Curſed be the Man that doth the work of the Lord negligently. But if any Man ſerve me, him ſhall my Father Honour,</hi> John 12.26. <hi>Being fervent in Spirit, ſerving the Lord,</hi> Rom. 12.11.</p>
+            <p>If we conſider how miſerably we have degene<g ref="char:EOLhyphen"/>rated from the firſt Ages of the Church, and that little Profeſſion that is left, is dwindling into Atheiſm, and a contempt of all Religion: if no more reverence can be had for this poor deſpiſed ſervice [almoſt the only thing wherein we Sym<g ref="char:EOLhyphen"/>bolize with the Primitive Chriſtians] it is an indi<g ref="char:EOLhyphen"/>cation of Gods Spiritual Judgments upon us, it ſounds like a <hi>migremus hinc,</hi> and bodes no leſs then a quite removing the Candleſtick.</p>
+            <p>We are yet happy, if we knew our Condition; for we have not Prayers lockt up from us in an un<g ref="char:EOLhyphen"/>known tongue, nor are we lockt up from them, by being denied a daily and publick acceſs to them; and there is no Church in the world hath all the Offices and Sacraments ſo Adminiſtred, confor<g ref="char:EOLhyphen"/>mably to the beſt precedents, in words under<g ref="char:EOLhyphen"/>ſtood, without any mixture of Dangerous or Su<g ref="char:EOLhyphen"/>perſtitious encroachments, and with that Gravity, Decency, and Solemnity, that befits the ſervice of God.</p>
+            <pb n="30" facs="tcp:61047:17"/>
+            <q>
+               <p>
+                  <hi>Conſider what I ſay, and the Lord give you un<g ref="char:EOLhyphen"/>derſtanding in all things,</hi>
+               </p>
+               <bibl>2 Tim. 2.7.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Bleſſing, Honour, Glory, and Power, be unto him that ſitteth upon the Throne, and unto the Lamb for ever and ever,</hi>
+               </p>
+               <bibl>Rev. 5.13.</bibl>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
